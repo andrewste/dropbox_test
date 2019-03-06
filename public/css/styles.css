@@ -1,0 +1,20 @@
+#app {
+    min-height: 100vh;
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+}
+
+.navbar {
+    -webkit-box-shadow: 0px 3px 22px 0px rgba(72,92,122,1);
+    -moz-box-shadow: 0px 3px 22px 0px rgba(72,92,122,1);
+    box-shadow: 0px 3px 22px 0px rgba(72,92,122,1);
+}
+
+.invalid-feedback {
+    display: block;
+}
+
+.index-file {
+    max-width: 250px;
+}
